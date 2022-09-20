@@ -1,0 +1,5 @@
+baguette,17
+BAGEL,2
+Honey WHEAT bread,5
+RYE BREAD,3
+CHalLAh,5

@@ -1,0 +1,5 @@
+Bakery,City,State,
+Arcade Bakery,New York,New York,
+patisserie|San Francisco|California|
+Babettes Artisan Breads&Denver&Colorado&
+Baker MillerzChicagozIllinoisz
